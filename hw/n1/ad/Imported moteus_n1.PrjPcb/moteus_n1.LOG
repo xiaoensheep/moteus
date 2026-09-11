@@ -1,0 +1,198 @@
+Importer Log Report
+Project : moteus_n1.PrjPcb
+
+Section : Analyze Document - E:\GITHUBMI\moteus\hw\n1\r1.3\moteus_n1.lbr
+    Analyzing data of E:\GITHUBMI\moteus\hw\n1\r1.3\moteus_n1.lbr
+    Load settings
+    Load layers 136
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 34
+    Load Symbols 17
+    Load DeviceSets 17
+EndSection
+
+Section : Analyze Document - E:\GITHUBMI\moteus\hw\n1\r1.3\moteus_n1.brd
+    Analyzing data of E:\GITHUBMI\moteus\hw\n1\r1.3\moteus_n1.brd
+    Load settings
+    Load layers 148
+    Load board
+    Load Library "controller"
+    Load Packages 6
+    Load Library "mfpassives"
+    Load Packages 6
+    Load Library "shorts"
+    Load Packages 2
+    Load Library "moteus_hp"
+    Load Packages 4
+    Load Library "rcl"
+    Load Packages 1
+    Load Library "BAT41KFILM"
+    Load Packages 1
+    Load Library "power_dist"
+    Load Packages 1
+    Load Library "mfleds"
+    Load Packages 1
+    Load Library "diode"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "SM07B-GHS-TB_LF__SN_"
+    Load Packages 1
+    Load Library "SM08B-GHS-TB_LF__SN_"
+    Load Packages 1
+    Load Library "SM06B-GHS-TB_LF__SN_"
+    Load Packages 1
+    Load Library "moteus_n1"
+    Load Packages 7
+    Load Library "ADP5301ACBZ-4-R7"
+    Load Packages 1
+    Load Library "headers_2mm"
+    Load Packages 2
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - E:\GITHUBMI\moteus\hw\n1\r1.3\moteus_n1.sch
+    Analyzing data of E:\GITHUBMI\moteus\hw\n1\r1.3\moteus_n1.sch
+    Load settings
+    Load layers 148
+    Load schematic
+    Load Libraries 17
+    Load Library "controller"
+    Load Packages 11
+    Load Symbols 6
+    Load DeviceSets 6
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "mfpassives"
+    Load Packages 10
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "shorts"
+    Load Packages 4
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "moteus_hp"
+    Load Packages 8
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "rcl"
+    Load Packages 85
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "BAT41KFILM"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "power_dist"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "mfleds"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "diode"
+    Load Packages 62
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 1
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "SM07B-GHS-TB_LF__SN_"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SM08B-GHS-TB_LF__SN_"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SM06B-GHS-TB_LF__SN_"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "moteus_n1"
+    Load Packages 14
+    Load Symbols 6
+    Load DeviceSets 6
+    Load Library "ADP5301ACBZ-4-R7"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "headers_2mm"
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Attributes 0
+    Load Classes 4
+    Load Parts 274
+    Load Sheets 1
+    ERROR: Unhandled type <errors>
+EndSection
